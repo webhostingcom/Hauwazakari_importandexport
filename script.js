@@ -556,7 +556,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 "#ffffff";
 
             ctx.fillText(
-                "wallform",
+                "HAUWA ZAKARI",
                 width / 2,
                 height / 2
             );
